@@ -2,7 +2,11 @@
 This is a Slack bot that allows users to create and participate in polls within Slack channels. The bot listens to messages in Slack, detects poll creation requests, votes, and end poll commands, and manages the polling process accordingly.
 
 Clone this repository to your local machine:
+git clone https://github.com/GlennWilliam/ACA2023.git
+cd ACA2023
 
+Run the bot:
+python main.py
 
 #Getting Started
 Before you can run this code, you will need to install several Python libraries. Here's a list of the libraries you need and the commands to install them using pip, the Python package manager: 
